@@ -1,0 +1,17 @@
+[
+  {
+    "package": "gamma",
+    "url": "https://github.com/crp2a/gamma",
+    "branch" : "master"
+  },
+  {
+    "package" : "gammaShiny",
+    "url" : "https://github.com/crp2a/gammaShiny",
+    "branch" : "master"
+  },
+  {
+    "package": "BayLum",
+    "url": "https://github.com/crp2a/BayLum",
+    "subdir": "master"
+  }
+]
