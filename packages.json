@@ -12,6 +12,11 @@
   {
     "package": "BayLum",
     "url": "https://github.com/crp2a/BayLum",
-    "subdir": "master"
+    "branch": "master"
+  },
+  {
+    "package": "bdXdata",
+    "url": "https://github.com/crp2a/bdXdata",
+    "branch": "master"
   }
 ]
