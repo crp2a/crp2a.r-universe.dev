@@ -2,27 +2,24 @@
   {
     "package": "gamma",
     "url": "https://github.com/crp2a/gamma",
-    "branch" : "master"
+    "branch" : "*release"
   },
   {
     "package" : "gammaShiny",
-    "url" : "https://github.com/crp2a/gammaShiny",
-    "branch" : "master"
+    "url" : "https://github.com/crp2a/gammaShiny"
   },
   {
     "package": "BayLum",
     "url": "https://github.com/crp2a/BayLum",
-    "branch": "master"
+    "branch" : "*release"
   },
   {
     "package": "Al2O3AnalysisApp",
-    "url": "https://github.com/crp2a/Al2O3_AnalysisApp",
-    "branch": "master"
+    "url": "https://github.com/crp2a/Al2O3_AnalysisApp"
   },
   {
     "package": "bdXdata",
-    "url": "https://github.com/crp2a/bdXdata",
-    "branch": "master"
+    "url": "https://github.com/crp2a/bdXdata"
   }
 ]
 
