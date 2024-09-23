@@ -6,7 +6,8 @@
   },
   {
     "package" : "gammaShiny",
-    "url" : "https://github.com/crp2a/gammaShiny"
+    "url" : "https://github.com/crp2a/gammaShiny",
+    "branch" : "*release"
   },
   {
     "package": "BayLum",
